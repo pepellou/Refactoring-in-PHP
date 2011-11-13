@@ -1,15 +1,26 @@
+body {
+	background-color: #000;
+	margin: 3px auto;
+	width: 900px;
+	font-family: Arial;
+}
+
 #header {
 	background: url('../img/aurora.jpg');
 	width: 850px;
 	height: 246px;
 	float: left;
-	font-family: Arial;
 	font-size: 50px;
 	padding: 15px 25px;
 }
 
-body {
-	background-color: #000;
-	margin: 3px auto;
-	width: 900px;
+#menu a {
+	font-size: 18px;
+	color: white;
+	text-decoration: none;
+	margin-right: 10px;
+}
+
+#menu a:hover {
+	color: yellow;
 }

@@ -1,0 +1,23 @@
+/* TEAM */
+	Standard Man: Pepe Doval Gonzalez
+	Twitter: @pepellou
+	From: Santiago de Compostela, Galicia, Spain
+
+/* THANKS */
+	My PHP warriors:
+		@agileando
+		@amaliahern
+		@Belfarast
+		@carlisgg
+		@crisgomal
+		@desarrolla2
+		@jsayar
+		@popigg
+		@programania
+		@SergiGP
+
+/* SITE */
+	Last update: 2011/11/11
+	Language: Castellano
+	Doctype: HTML
+	IDE: vi
